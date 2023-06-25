@@ -83,3 +83,25 @@ function removeItem(i) {
 }
 
 loadItens()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
